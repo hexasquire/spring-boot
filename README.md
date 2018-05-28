@@ -1,7 +1,7 @@
 # spring-boot
 
 Boiler requirements/structure
-   1. GENERAL		
+   1. GENERAL	
         a. CORS filter	
         b. centralized configuration	
         c. routing and filtering	
